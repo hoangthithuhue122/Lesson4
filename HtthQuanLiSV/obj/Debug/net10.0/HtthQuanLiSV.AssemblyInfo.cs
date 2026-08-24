@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HtthQuanLiSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad0537bbc28ba9da76670c6d2cff3897cac34446")]
 [assembly: System.Reflection.AssemblyProductAttribute("HtthQuanLiSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HtthQuanLiSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThietKeWeb1\\Lesson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\views\\htthproduct\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:views\\htthproduct\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\controllers\\htthproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:controllers\\htthproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\models\\htthproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:models\\htthproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\views\\htthproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:views\\htthproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|d:\\thietkeweb1\\lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE6D351-25AA-4E9D-8897-1F58949A651C}|Htthlesson3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T13:46:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtthProductController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Controllers\\HtthProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HtthProductController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Controllers\\HtthProductController.cs",
+              "RelativeToolTip": "Controllers\\HtthProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:03:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Views\\HtthProduct\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\HtthProduct\\ListProduct.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Views\\HtthProduct\\ListProduct.cshtml",
+              "RelativeToolTip": "Views\\HtthProduct\\ListProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T13:27:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtthProduct.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Models\\HtthProduct.cs",
+              "RelativeDocumentMoniker": "Models\\HtthProduct.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Models\\HtthProduct.cs",
+              "RelativeToolTip": "Models\\HtthProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:33:50.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Views\\HtthProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HtthProduct\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Views\\HtthProduct\\Index.cshtml",
+              "RelativeToolTip": "Views\\HtthProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T13:04:21.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Lesson3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Lesson3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:00:43.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

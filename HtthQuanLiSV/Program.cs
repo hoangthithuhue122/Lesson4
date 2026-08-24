@@ -27,7 +27,7 @@ namespace HtthQuanLiSV
                 Console.WriteLine("12. Thống kê sinh viên theo ngành");
                 Console.WriteLine("13. Thống kê sinh viên theo trạng thái");
                 Console.WriteLine("0. Thoát");
-                Console.Write("Chọn chức năng: ");
+                Console.Write("Chọn: ");
                 
                 string choice = Console.ReadLine() ?? "";
                 
@@ -35,13 +35,13 @@ namespace HtthQuanLiSV
                 {
                     case "1":
                         _service.AddStudent(_view.InputNewStudent(_service));
-                        Console.WriteLine("Thêm thành công!");
+                        Console.WriteLine("Đã thêm");
                         break;
                     case "2":
                         _view.DisplayList(_service.GetAll());
                         break;
                     case "3":
-                        Console.Write("Nhập mã SV: ");
+                        Console.Write("Nhập MSV: ");
                         var sv = _service.GetByMaSV(Console.ReadLine() ?? "");
                         if (sv != null) _view.DisplayStudent(sv);
                         else Console.WriteLine("Không tìm thấy!");
@@ -51,7 +51,7 @@ namespace HtthQuanLiSV
                         _view.DisplayList(_service.SearchByName(Console.ReadLine() ?? ""));
                         break;
                     case "5":
-                        Console.Write("Nhập mã SV cần cập nhật: ");
+                        Console.Write("Nhập MSV cần cập nhật: ");
                         string maCapNhat = Console.ReadLine() ?? "";
                         if (_service.GetByMaSV(maCapNhat) != null)
                         {
@@ -59,12 +59,12 @@ namespace HtthQuanLiSV
                             var newData = _view.InputNewStudent(_service); 
                             newData.maSV = maCapNhat; 
                             _service.UpdateStudent(maCapNhat, newData);
-                            Console.WriteLine("Cập nhật thành công!");
+                            Console.WriteLine("Cập nhật thành công");
                         }
-                        else Console.WriteLine("Sinh viên không tồn tại!");
+                        else Console.WriteLine("Sinh viên không tồn tại");
                         break;
                     case "6":
-                        Console.Write("Nhập mã SV cần xóa: ");
+                        Console.Write("Nhập MSV cần xóa: ");
                         if (_service.DeleteStudent(Console.ReadLine() ?? "")) Console.WriteLine("Xóa thành công!");
                         else Console.WriteLine("Sinh viên không tồn tại!");
                         break;
@@ -81,15 +81,15 @@ namespace HtthQuanLiSV
                         _view.DisplayList(_service.GetTopScoreStudents());
                         break;
                     case "11":
-                        Console.WriteLine($"Điểm trung bình toàn bộ: {_service.GetAverageScoreAll():F2}");
+                        Console.WriteLine("Điểm trung bình toàn bộ: {_service.GetAverageScoreAll():F2}");
                         break;
                     case "12":
                         foreach (var kvp in _service.GetStatsByMajor())
-                            Console.WriteLine($"Ngành {kvp.Key}: {kvp.Value} sinh viên");
+                            Console.WriteLine("Ngành {kvp.Key}: {kvp.Value} sinh viên");
                         break;
                     case "13":
                         foreach (var kvp in _service.GetStatsByStatus())
-                            Console.WriteLine($"Trạng thái {kvp.Key}: {kvp.Value} sinh viên");
+                            Console.WriteLine("Trạng thái {kvp.Key}: {kvp.Value} sinh viên");
                         break;
                     case "0":
                         Console.WriteLine("Chương trình kết thúc.");

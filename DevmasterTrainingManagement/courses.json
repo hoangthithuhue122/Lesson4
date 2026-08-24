@@ -1,0 +1,10 @@
+[
+  {
+    "CourseId": "12",
+    "CourseName": "Lap trinh web",
+    "TuitionFee": 5000000,
+    "Duration": 45,
+    "Description": "ko",
+    "Status": "mo"
+  }
+]
