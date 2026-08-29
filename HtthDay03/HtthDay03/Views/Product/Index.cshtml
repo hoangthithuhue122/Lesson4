@@ -1,0 +1,50 @@
+﻿@model IEnumerable<HtthDay03.Models.Product>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var categories = ViewBag.Categories as List<HtthDay03.Models.Category>;
+}
+
+<div class="row">
+ 
+    <div class="col-md-3">
+        <h3>DANH MỤC</h3>
+        <ul class="list-group">
+            @if (categories != null)
+            {
+                foreach (var item in categories)
+                {
+                    <li class="list-group-item">
+                        <a asp-controller="Product" asp-action="Index" asp-route-id="@item.Id" style="text-decoration: none; color: #333;">
+                            @item.Name
+                        </a>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+
+
+    <div class="col-md-9">
+        <h2>Danh sách sản phẩm</h2>
+        <div class="row">
+            @foreach (var p in Model)
+            {
+                <div class="col-md-4" style="margin-bottom: 20px;">
+                    <div class="thumbnail" style="border: 1px solid #ddd; padding: 10px; text-align: center; border-radius: 4px;">
+                        <img src="@p.Image" alt="@p.Name" style="width: 100%; height: 200px; object-fit: cover;" />
+                        <div class="caption" style="padding-top: 10px;">
+                            <h4 style="font-size: 16px; font-weight: bold; height: 40px; overflow: hidden;">@p.Name</h4>
+                            <p>
+                                <span style="text-decoration: line-through; color: #888; margin-right: 10px;">Giá: @p.Price.ToString("#,##0")</span>
+                                <span style="color: red; font-weight: bold;">Giá mới: @p.salePrice.ToString("#,##0")</span>
+                            </p>
+                            <p>
+                                <a href="/Product/Detail/@p.Id" class="btn btn-success btn-block" style="width: 100%; background-color: #5cb85c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; display: inline-block;">Chi tiết</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
