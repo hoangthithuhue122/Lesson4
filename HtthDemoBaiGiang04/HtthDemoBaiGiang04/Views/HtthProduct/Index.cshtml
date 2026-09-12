@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Thong tin san pham";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<div class="alert alert-danger">
+    <h2>Lay tu ViewBag</h2>
+    <p>ID: @ViewBag.productVB.productId</p>
+    <p>Name: @ViewBag.productVB.productName</p>
+    <p>Quantity: @ViewBag.productVB.quantity</p>
+    <p>Price: @ViewBag.productVB.price</p>
+</div>
+<hr/>
+@{
+    var product = ViewData["productVD"] as HtthDemoBaiGiang04.Models.HtthProduct;
+}
+<div class="alert alert-info">
+    <h2>Lay tu ViewData</h2>
+    <p>ID: @product.productId</p>
+    <p>Name: @product.productName</p>
+    <p>Quantity: @product.quantity</p>
+    <p>Price: @product.price</p>
+</div>

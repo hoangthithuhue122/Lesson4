@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "Danh sach san pham";
+    var products = ViewData["products"] as List<HtthDemoBaiGiang04.Models.HtthProduct>;
+    var stt = 0;
+    var tt = 0; //tong tien
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Money</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(HtthProduct item in products)
+        {
+            stt++;
+            //tt = (decimal)
+
+            <tr>
+                <td>@stt</td>
+                <td>@item.productId</td>
+                <td>@item.productName</td>
+                <td>@item.quantity</td>
+                <td>@item.price</td>
+                <td>@item.quantity * @item.price</td>
+                <td>
+                    <a href="" class="btn btn-primary">Xem</a>
+                    <a href="" class="btn btn-info">Sua</a>
+                    <a href="" class="btn btn-danger">Xoa</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

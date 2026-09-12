@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\views\\htthproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\views\\htthproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\models\\htthproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\models\\htthproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\controllers\\htthproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\controllers\\htthproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\controllers\\htthaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\controllers\\htthaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\views\\htthproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\views\\htthproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|d:\\thietkeweb1\\htthdemobaigiang04\\htthdemobaigiang04\\views\\htthabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{636068E1-6671-47F0-A179-6E3F708EC33F}|HtthDemoBaiGiang04\\HtthDemoBaiGiang04.csproj|solutionrelative:htthdemobaigiang04\\views\\htthabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T16:12:40.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtthProduct.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Models\\HtthProduct.cs",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Models\\HtthProduct.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Models\\HtthProduct.cs",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Models\\HtthProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:24:32.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthProduct\\Products.cshtml",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Views\\HtthProduct\\Products.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthProduct\\Products.cshtml",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Views\\HtthProduct\\Products.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T15:59:42.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtthProductController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HtthProductController.cs",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Controllers\\HtthProductController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HtthProductController.cs",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Controllers\\HtthProductController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T15:17:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:50:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtthAboutController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HtthAboutController.cs",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Controllers\\HtthAboutController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Controllers\\HtthAboutController.cs",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Controllers\\HtthAboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:52:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Views\\HtthProduct\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthProduct\\Index.cshtml",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Views\\HtthProduct\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T15:21:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T15:45:24.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthAbout\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthDemoBaiGiang04\\Views\\HtthAbout\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\HtthDemoBaiGiang04\\HtthDemoBaiGiang04\\Views\\HtthAbout\\Index.cshtml",
+              "RelativeToolTip": "HtthDemoBaiGiang04\\Views\\HtthAbout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T14:54:48.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
